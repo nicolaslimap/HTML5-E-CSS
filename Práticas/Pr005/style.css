@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+    font: normal 1em arial, serif;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+h1#principal {
+    font: normal bolder 2.5em sans-serif;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    background-color: #111111;
+    color: white;
+}
+
+h2 {
+    font: normal bold 1.5em sans-serif;
+    color: #252525;
+}
+
+body {
+    background-color: #d3c1888c;
+    
+    
+}
+
+p {
+    text-indent: 10px;
+}
